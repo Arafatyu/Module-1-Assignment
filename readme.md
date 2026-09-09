@@ -27,3 +27,7 @@ to edit/enter branch
 7. git commit -m 'message'
 
 Adds a note/message about what you did last
+
+8. git clone [url]
+
+retrieve an entire repository from a hosted location via URL
