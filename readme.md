@@ -23,3 +23,7 @@ List all files
 6. touch .[branchname]
 
 to edit/enter branch
+
+7. git commit -m 'message'
+
+Adds a note/message about what you did last
