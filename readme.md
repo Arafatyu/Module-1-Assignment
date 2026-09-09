@@ -36,4 +36,8 @@ retrieve an entire repository from a hosted location via URL
 
 merge the specified branch’s history into the current one
 
+10. git add [file]
+
+add a file as it looks now to your next commit
+
 
