@@ -44,4 +44,8 @@ add a file as it looks now to your next commit
 
 shows all hidden files
 
+12. cd [file]
+
+navigate to the file you want to change to
+
 
