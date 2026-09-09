@@ -19,3 +19,7 @@ Creates a new directory
 5. ls
 
 List all files
+
+6. touch .[branchname]
+
+to edit/enter branch
