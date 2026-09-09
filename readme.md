@@ -48,4 +48,8 @@ shows all hidden files
 
 navigate to the file you want to change to
 
+13. vi .[file]
+
+a text editor. i to insert esc to leave insertmode. : command promptw write q quit then enter to leave
+
 
