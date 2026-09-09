@@ -31,3 +31,9 @@ Adds a note/message about what you did last
 8. git clone [url]
 
 retrieve an entire repository from a hosted location via URL
+
+9. git merge [branchname]
+
+merge the specified branch’s history into the current one
+
+
