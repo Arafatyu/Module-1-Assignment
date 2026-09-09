@@ -40,4 +40,8 @@ merge the specified branch’s history into the current one
 
 add a file as it looks now to your next commit
 
+11. ls -a
+
+shows all hidden files
+
 
