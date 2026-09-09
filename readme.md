@@ -52,4 +52,8 @@ navigate to the file you want to change to
 
 a text editor. i to insert esc to leave insertmode. : command promptw write q quit then enter to leave
 
+14. git branch --all
+
+to see all branches created
+
 
