@@ -15,3 +15,7 @@ To switch to that branch
 4. mkdir
 
 Creates a new directory
+
+5. ls
+
+List all files
