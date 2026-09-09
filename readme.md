@@ -11,3 +11,7 @@ Create a new branch at the current commit
 3. git checkout [branchname]
 
 To switch to that branch
+
+4. mkdir
+
+Creates a new directory
