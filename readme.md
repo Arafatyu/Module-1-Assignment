@@ -56,4 +56,6 @@ a text editor. i to insert esc to leave insertmode. : command promptw write q qu
 
 to see all branches created
 
+15. git init
 
+initialize an existing directory as a Git repository
